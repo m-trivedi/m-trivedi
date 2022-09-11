@@ -1,7 +1,7 @@
 # Hi! I'm Mihir Trivedi👋
 
 ### About Me
-- ####I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
+- #### I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 - My personal website is [here](https://m-trivedi.github.io)
 
 ### Projects
