@@ -11,7 +11,8 @@
 
 ### Contact Me
 - Email: mtrivedi4@wisc.edu
-- LinkedIn: [https://linkedin.com/in/m-trivedi](https://linkedin.com/in/m-trivedi)
+- LinkedIn: https://linkedin.com/in/m-trivedi
+- GitHub: https://github.com/m-trivedi
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
