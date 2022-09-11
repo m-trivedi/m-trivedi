@@ -1,10 +1,13 @@
 # Hi! I'm Mihir Trivedi👋
 
-#### I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
+### About Me
+- ####I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
+- My personal website is [here](https://m-trivedi.github.io)
 
+### Projects
 #### My projects: [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
 
-#### My personal website is [here](https://m-trivedi.github.io)
+#### 
 
 ### Contact
 - #### Email: mtrivedi4@wisc.edu
