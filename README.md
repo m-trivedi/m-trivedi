@@ -2,6 +2,8 @@
 
 #### I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 
+### My projects:
+
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
