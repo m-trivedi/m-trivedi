@@ -3,6 +3,7 @@
 ### About Me
 - I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 - My personal website is [here](https://m-trivedi.github.io)
+- You can view my resume [here](https://m-trivedi.github.io/resume.pdf)
 
 ### My Projects
 - [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
