@@ -1,6 +1,6 @@
-# Hi! I'm Mihir 👋
+# Hi! I'm Mihir Trivedi👋
 
-I'm Mihir Trivedi, sophomore at UW-Madison
+
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
