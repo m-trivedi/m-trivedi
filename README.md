@@ -4,6 +4,12 @@
 
 #### My projects: [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
 
+#### My personal website is [here](https://m-trivedi.github.io)
+
+### Contact
+- #### Email: mtrivedi4@wisc.edu
+- #### LinkedIn: [https://linkedin.com/in/m-trivedi](https://linkedin.com/in/m-trivedi)
+
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
