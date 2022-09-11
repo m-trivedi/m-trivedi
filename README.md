@@ -4,14 +4,14 @@
 - I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 - My personal website is [here](https://m-trivedi.github.io)
 
-### Projects
+### My Projects
 - [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
 
 #### 
 
-### Contact
-- #### Email: mtrivedi4@wisc.edu
-- #### LinkedIn: [https://linkedin.com/in/m-trivedi](https://linkedin.com/in/m-trivedi)
+### Contact Me
+- Email: mtrivedi4@wisc.edu
+- LinkedIn: [https://linkedin.com/in/m-trivedi](https://linkedin.com/in/m-trivedi)
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
