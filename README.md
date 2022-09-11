@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi! I'm Mihir 👋
 
 I'm Mihir Trivedi, sophomore at UW-Madison
 
