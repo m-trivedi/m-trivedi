@@ -8,6 +8,9 @@
 ### My Projects
 - [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
 
+### Leadership / Extracurricular
+- [Plavior](https://plavior.com), [Google Solutions Challenge 2022](https://github.com/MichaelLin12/Google-Solutions)
+
 #### 
 
 ### Contact Me
