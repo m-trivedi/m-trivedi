@@ -1,6 +1,4 @@
 # Hey! I'm Mihir Trivedi! 😄
-
-## About Me
 - I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 - My personal website is [here](https://m-trivedi.github.io).
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
@@ -16,12 +14,10 @@
 #### [NeoConvo](https://github.com/m-trivedi/neoconvo)
 - A PHP social networking website that allows users to post, message, and connect with other users.
 
-### Leadership / Extracurricular
+## Leadership / Extracurricular
 - [Plavior](https://plavior.com), [Google Solutions Challenge 2022](https://github.com/MichaelLin12/Google-Solutions)
 
-#### 
-
-### Contact Me
+## Contact Me
 - Email: mtrivedi4@wisc.edu
 - LinkedIn: https://linkedin.com/in/m-trivedi
 - GitHub: https://github.com/m-trivedi
