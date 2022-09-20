@@ -6,7 +6,7 @@
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
 
 ### My Projects
-- [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/neoconvo)
+- [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/m-trivedi/neoconvo)
 
 ### Leadership / Extracurricular
 - [Plavior](https://plavior.com), [Google Solutions Challenge 2022](https://github.com/MichaelLin12/Google-Solutions)
