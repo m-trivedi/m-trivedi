@@ -1,11 +1,11 @@
 # Hey! I'm Mihir Trivedi! 😄
 
-### About Me
+## About Me
 - I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
 - My personal website is [here](https://m-trivedi.github.io).
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
 
-### My Projects
+## My Projects
 #### [Radized](https://github.com/m-trivedi/radized)
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
 - Website link: [https://radized.com](https://radized.com)
