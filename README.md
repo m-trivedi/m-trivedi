@@ -8,6 +8,7 @@
 ### My Projects
 #### [Radized](https://github.com/m-trivedi/radized)
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
+- Website link: [https://radized.com](https://radized.com)
 
 #### [Flora Counselling Services](https://github.com/m-trivedi/flora)
 - A Python application for over 2000 students to make counselling services more accessible in over 10 schools.
