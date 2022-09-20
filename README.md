@@ -1,4 +1,4 @@
-# Hey! I'm Mihir Trivedi!👋
+# Hey! I'm Mihir Trivedi! 😄
 
 ### About Me
 - I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
