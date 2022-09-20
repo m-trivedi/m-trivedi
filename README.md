@@ -6,7 +6,14 @@
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
 
 ### My Projects
-- [Radized](https://github.com/m-trivedi/radized), [Flora Counselling Services](https://github.com/m-trivedi/flora), [NeoConvo](https://github.com/m-trivedi/neoconvo)
+#### [Radized](https://github.com/m-trivedi/radized)
+- A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
+
+#### [Flora Counselling Services](https://github.com/m-trivedi/flora)
+- A Python application for over 2000 students to make counselling services more accessible in over 10 schools.
+
+#### [NeoConvo](https://github.com/m-trivedi/neoconvo)
+- A PHP social networking website that allows users to post, message, and connect with other users.
 
 ### Leadership / Extracurricular
 - [Plavior](https://plavior.com), [Google Solutions Challenge 2022](https://github.com/MichaelLin12/Google-Solutions)
