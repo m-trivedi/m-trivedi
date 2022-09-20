@@ -3,8 +3,9 @@
 - My personal website is [here](https://m-trivedi.github.io).
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
 
+
 ## My Projects
-#### [Radized](https://github.com/m-trivedi/radized)
+#### [Radized: Radiology Digitized](https://github.com/m-trivedi/radized)
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
 - Website link: [https://radized.com](https://radized.com)
 
