@@ -25,9 +25,10 @@
 
 
 ## Contact Me
-- Email: mtrivedi4@wisc.edu
+- Email: m-trivedi@outlook.com
 - LinkedIn: https://linkedin.com/in/m-trivedi
 - GitHub: https://github.com/m-trivedi
+- Codeforces: https://codeforces.com/profile/m-trivedi
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
