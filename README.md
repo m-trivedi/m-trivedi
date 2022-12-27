@@ -1,5 +1,5 @@
 # Hey! I'm Mihir Trivedi!
-- I'm a Sophomore at the University of Wisconsin - Madison majoring in Computer Sciences.
+- I'm a Sophomore at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in Computer Sciences.
 - My personal website is [https://m-trivedi.github.io](https://m-trivedi.github.io).
 - You can view my resume [here](https://m-trivedi.github.io/resume.pdf).
 
