@@ -7,7 +7,7 @@
 ## My Projects
 ### Radized: Radiology Digitized
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
-- The repository to radized is currently private. Email me to see the project code.
+- The repository of radized is currently private. Email me to see the project code.
 
 ### [Flora Counselling Services](https://github.com/m-trivedi/flora)
 - A Python application for over 2000 students to make counselling services more accessible in over 10 schools.
