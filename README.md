@@ -4,8 +4,11 @@
 - You can view my resume [here](https://m-trivedi.com/Mihir_Trivedi_Resume.pdf).
 
 ## Experience
-### Full Stack Web Developer @ [Pantry2Home](https://pantry2home.com)
-
+### Full Stack Developer @ [Pantry2Home](https://pantry2home.com)
+- Build the Pantry2Home platform that helps pantries deliver food to food insecure individuals via DoorDash.
+- Create PHP backend with SQL DB to manage user accounts and food items in pantries in Madison.
+- Implement pantry subscription models and manage donations to website for revenue generation.
+- Interpret food order database using Python Pandas, and Excel to create weekly report for co-founders.
 
 ## My Projects
 ### Radized: Radiology Digitized
