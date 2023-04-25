@@ -3,6 +3,10 @@
 - My personal website is [https://m-trivedi.com](https://m-trivedi.com).
 - You can view my resume [here](https://m-trivedi.com/Mihir_Trivedi_Resume.pdf).
 
+### Experience
+### Full Stack Web Developer
+#### [Pantry2Home](https://pantry2home.com)
+
 
 ## My Projects
 ### Radized: Radiology Digitized
