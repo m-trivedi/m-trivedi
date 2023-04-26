@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+   /* font-family: 'Fira Sans', sans-serif;*/
+    font-family: 'Poppins', sans-serif;
+
+    background-color: #1a1a1a;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 110px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+
+
+#header {
+    height: 60px;
+    width: calc(100% - 14vw);
+    position: fixed;
+    top: 0;
+    background-color: #282828;
+    line-height: 60px; 
+    font-size: 20px;
+    text-align: left;
+    padding: 0px 7vw;
+    color:#faad14;
+}
+
+
+#home {
+    text-align: left; 
+    padding: 0px 7vw; 
+    width: calc(100% - 14vw);
+}
+
+#experience {
+    padding-top: 100px;
+    z-index: -1;
+    margin-top: -50px;
+}
+
+#projects {
+    padding-top: 100px;
+    z-index: -2;
+    margin-top: -50px;
+}
+
+#skills {
+    padding-top: 100px;
+    z-index: -3;
+    margin-top: -50px;
+}
+
+#extracurricular {
+    padding-top: 100px;
+    z-index: -4;
+    margin-top: -50px;
+}
+
+#awards {
+    padding-top: 100px;
+    z-index: -5;
+    margin-top: -50px;
+}
+
+button {
+    /*font-family: 'Fira Sans', sans-serif;*/
+    font-family: 'Poppins', sans-serif;
+
+    background-color: #faad14;
+    font-size: 16px;
+    color: #1a1a1a;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 2px solid #faad14;
+    margin: 50px 0px;
+    transition: border-radius 0.5s;
+}
+button:hover {
+    border-radius: 0px;
+}
+.line {
+    border-top: 1px solid #faad14;
+    width: calc(100% - 100px);
+    margin: 0px 50px;
+    margin-bottom: -20px;
+}
+.linetext {
+    font-size: 30px;
+    color: #faad14;
+    background-color: #1a1a1a;
+    padding: 0px 1vw;
+    margin-left: 6vw;
+    display: inline-block;
+}
+.content {
+    padding: 40px 7vw;
+    line-height: 25px;
+}
+.text {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+.link:hover {
+    color: #faad14;
+}
+
+.navlink {
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+.navlink:hover {
+    color: #faad14;
+}
+.fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: white;
+    transition: border-radius 0.5s;
+    margin: 10px 15px;
+}
+    
+.fa:hover {
+    border-radius: 0px;
+}
+    
+.fa-linkedin {
+    margin-left: 0px;
+    color: #1a1a1a;
+}
+
+.fa-github {
+    color: #1a1a1a;
+}
+.screenshot {
+    border-radius: 20px;
+    height: 100px;
+}
