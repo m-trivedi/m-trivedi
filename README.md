@@ -1,5 +1,5 @@
 # Hey! I'm Mihir Trivedi!
-- I'm a Sophomore at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu).
+- I'm a Sophomore at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer.
 - My personal website is [https://m-trivedi.com](https://m-trivedi.com).
 - You can view my resume [here](https://m-trivedi.com/Mihir_Trivedi_Resume.pdf).
 
