@@ -2,11 +2,11 @@
 I'm a Sophomore at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer. My goals for the summer of 2023 is to program competetively at CodeForces, and Leetcode. 
 
 ## Experience
-### Full Stack Developer @ [Pantry2Home](https://pantry2home.com)
-- Build the Pantry2Home platform that helps pantries deliver food to food insecure individuals via DoorDash.
-- Create PHP backend with SQL DB to manage user accounts and food items in pantries in Madison.
-- Implement pantry subscription models and manage donations to website for revenue generation.
-- Interpret food order database using Python Pandas, and Excel to create weekly report for co-founders.
+### Full-Stack Developer @ [Pantry2Home](https://pantry2home.com)
+- Develop the Pantry2Home (pantry2home.com) website independently that helps food insecure communities order food items for pickup/delivery from local food pantries such as St. Vincent De Paul Food Pantry.
+- Create object-oriented PHP, JavaScript backend with MySQL database to implement features such as adding/removing accounts, placing orders, viewing and accepting orders, managing pantry inventory of different categories of food items, and managing staff members through website. Used Git and Webhooks for version control.
+- Designed SEO Optimized HTML/CSS for better search rankings with responsive JavaScript for cross-compatibility
+- Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.
 
 ## My Projects
 ### Radized: Radiology Digitized
