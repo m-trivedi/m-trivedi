@@ -52,6 +52,12 @@ h2 {
     width: calc(100% - 14vw);
 }
 
+#education {
+    padding-top: 100px;
+    z-index: 1;
+    margin-top: -50px;
+}
+
 #experience {
     padding-top: 100px;
     z-index: -1;
@@ -166,4 +172,13 @@ button:hover {
 .screenshot {
     border-radius: 20px;
     height: 100px;
+}
+
+.olink {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    color: white;
+}
+.olink:hover {
+    color: #faad14;
 }
