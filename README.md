@@ -9,6 +9,9 @@ I'm a Junior at the [University of Wisconsin - Madison](https://www.wisc.edu/) m
 - Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.
 
 ## My Projects
+### [Remote Procedural Calls](https://github.com/m-trivedi/remote-procedural-calls)
+- Implemented a remote procedural call system in C that enables a remote server to track over 100 connected clients and service multiple client requests concurrently by utilizing multi-threading (pthreads).
+
 ### Radized: Radiology Digitized
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
 - The repository of radized is currently private. Email me to see the project code.
