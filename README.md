@@ -1,5 +1,5 @@
 # Hey! I'm Mihir Trivedi!
-I'm a Sophomore at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer. My goals for the summer of 2023 is to program competetively at CodeForces, and Leetcode. 
+I'm a Junior at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer. My goals for the summer of 2023 is to program competetively at CodeForces, and Leetcode. 
 
 ## Experience
 ### Full-Stack Developer @ [Pantry2Home](https://pantry2home.com)
