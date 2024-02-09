@@ -1,5 +1,5 @@
-# Hey! I'm Mihir Trivedi!
-I'm a Junior at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer. My goals for the summer of 2023 is to program competetively at CodeForces, and Leetcode. 
+# Hello, my name is Mihir Trivedi.
+I'm a Junior at the [University of Wisconsin - Madison](https://www.wisc.edu/) majoring in [Computer Sciences](https://www.cs.wisc.edu). I currently work part-time at Pantry2Home as a full-stack developer. 
 
 ## Experience
 ### Full-Stack Developer @ [Pantry2Home](https://pantry2home.com)
@@ -31,11 +31,9 @@ I'm a Junior at the [University of Wisconsin - Madison](https://www.wisc.edu/) m
 - Participated in the Google Solutions Challenge 2022 to solve one or more of the United Nations' 17 Goals.
 
 
-## Contact Me
-- Email: m-trivedi@outlook.com
-- LinkedIn: https://linkedin.com/in/m-trivedi
-- GitHub: https://github.com/m-trivedi
-- Codeforces: https://codeforces.com/profile/m-trivedi
+## Socials
+- [LinkedIn](https://linkedin.com/in/m-trivedi)
+- [GitHub](https://github.com/m-trivedi)
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
