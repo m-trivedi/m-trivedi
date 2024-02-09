@@ -33,7 +33,6 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 
 ## Socials
 - [LinkedIn](https://linkedin.com/in/m-trivedi)
-- [GitHub](https://github.com/m-trivedi)
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
