@@ -22,18 +22,6 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 ### [NeoConvo](https://github.com/m-trivedi/neoconvo)
 - A PHP social networking website that allows users to post, message, and connect with other users.
 
-
-## Leadership / Extracurricular
-### [Plavior](https://plavior.com)
-- Collaborated with homeless shelters such as Porchlight Inc and The Beacon to provide technical skills such as Microsoft Excel to over 30 underprivileged people for over 50 hours per month.
-
-### [Google Solutions Challenge 2022](https://github.com/MichaelLin12/Google-Solutions)
-- Participated in the Google Solutions Challenge 2022 to solve one or more of the United Nations' 17 Goals.
-
-
-## Socials
-- [LinkedIn](https://linkedin.com/in/m-trivedi)
-
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
