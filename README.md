@@ -1,5 +1,5 @@
 # Hello, my name is Mihir Trivedi.
-I'm a Junior at the University of Wisconsin - Madison majoring in Computer Sciences. I currently work part-time at Pantry2Home as a full-stack developer. Feel free to check out my personal website (mihirtrivedi.com) to learn more about me.
+I'm a Junior at the University of Wisconsin - Madison majoring in Computer Sciences. I currently work part-time at Pantry2Home as a full-stack developer. Feel free to check out my [personal website](https://mihirtrivedi.com) to learn more about me.
 
 ## Experience
 ### Full-Stack Developer @ [Pantry2Home](https://pantry2home.com)
