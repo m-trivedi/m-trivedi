@@ -19,8 +19,7 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 ### [Flora Counselling Services](https://github.com/m-trivedi/flora)
 - A Python application for over 2000 students to make counselling services more accessible in over 10 schools.
 
-### [NeoConvo](https://github.com/m-trivedi/neoconvo)
-- A PHP social networking website that allows users to post, message, and connect with other users.
+[NeoConvo](https://github.com/m-trivedi/neoconvo): A PHP social networking website that allows users to post, message, and connect with other users.
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
