@@ -9,10 +9,11 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 - Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.
 
 ## My Projects
+- Implemented a Mancala playing agent using Reinforcement Learning under Prof. Jerry Zhu
 - Implemented an RPC system in C that enables a remote server to track over 100 connected clients and service multiple client requests concurrently via multi-threading.
 - Developed a PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
-- **[Flora](https://github.com/m-trivedi/flora)**, a PyQT5 Python application with SQL DB to make counselling services more accessible for over 2000 students.
-- **[NeoConvo](https://github.com/m-trivedi/neoconvo)**, a PHP social networking website that allows users to post, message, and connect with other users.
+- Developed a PyQT5 Python application with SQL DB to make counselling services more accessible for over 2000 students. [link](https://github.com/m-trivedi/flora)
+- Deceloped a PHP social networking website that allows users to post, message, and connect with other users. [link](https://github.com/m-trivedi/neoconvo)
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
