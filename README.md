@@ -16,10 +16,9 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 - A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
 - The repository of radized is currently private. Email me to see the project code.
 
-### [Flora Counselling Services](https://github.com/m-trivedi/flora)
-- A Python application for over 2000 students to make counselling services more accessible in over 10 schools.
-
-[NeoConvo](https://github.com/m-trivedi/neoconvo): A PHP social networking website that allows users to post, message, and connect with other users.
+### 
+- **[Flora](https://github.com/m-trivedi/flora)** A Python application (PyQT5) with SQL database to make counselling services more accessible for over 2000 students.
+- **[NeoConvo](https://github.com/m-trivedi/neoconvo)**: A PHP social networking website that allows users to post, message, and connect with other users.
 
 <!--
 **truvsere/truvsere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
