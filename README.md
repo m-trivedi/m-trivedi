@@ -2,8 +2,8 @@
 I'm a Junior at the University of Wisconsin - Madison majoring in Computer Sciences. I currently work part-time at Pantry2Home as a full-stack developer. Feel free to check out my [personal website](https://mihirtrivedi.com) to learn more about me.
 
 ## Experience
-**[Pantry2Home](https://pantry2home.com)** - Full-Stack Developer (Part Time)
-- Developed the Pantry2Home platform independently to support food-insecure communities in ordering food items for pickup/delivery from local Wisconsin food pantries, including St. Vincent De Paul Food Pantry, fostering greater accessibility to essential resources.
+**Pantry2Home** - Full-Stack Developer (Part Time)
+- Developed the Pantry2Home ([pantry2home.com](https://pantry2home.com)) platform independently to support food-insecure communities in ordering food items for pickup/delivery from local Wisconsin food pantries, including St. Vincent De Paul Food Pantry, fostering greater accessibility to essential resources.
 - Engineered an object-oriented PHP and JavaScript backend integrated with a MySQL database, adeptly incorporating the MVC (Model-View-Controller) design pattern, to implement functionalities such as user account management, order processing, order tracking, and comprehensive pantry inventory management encompassing diverse food categories. Utilized Git and Webhooks for meticulous version control.
 - Designed SEO-optimized HTML/CSS layouts, elevating search engine rankings and user experience. Employed responsive JavaScript techniques to ensure cross-compatibility across various devices, enhancing overall accessibility.
 - Collaborated closely with co-founders to brainstorm and conceptualize innovative website features, providing regular bi-weekly progress updates on their implementation ([view recs](https://www.linkedin.com/in/m-trivedi/)).
