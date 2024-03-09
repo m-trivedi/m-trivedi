@@ -9,9 +9,7 @@ I'm a Junior at the University of Wisconsin - Madison majoring in Computer Scien
 - Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.
 
 ## My Projects
-### [Remote Procedural Calls](https://github.com/m-trivedi/remote-procedural-calls)
-- Implemented a remote procedural call system in C that enables a remote server to track over 100 connected clients and service multiple client requests concurrently by utilizing multi-threading (pthreads).
-
+- **[Remote Procedural Calls](https://github.com/m-trivedi/remote-procedural-calls)**: An RPC system in C that enables a remote server to track over 100 connected clients and service multiple client requests concurrently by utilizing multi-threading (pthreads).
 - **Radized: Radiology Digitized** A PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.
 - **[Flora](https://github.com/m-trivedi/flora)**: A PyQT5 Python application with SQL DB to make counselling services more accessible for over 2000 students.
 - **[NeoConvo](https://github.com/m-trivedi/neoconvo)**: A PHP social networking website that allows users to post, message, and connect with other users.
