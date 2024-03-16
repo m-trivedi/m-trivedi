@@ -3,208 +3,113 @@
     <head>
         <title>Mihir Trivedi</title>
         <meta charset = "UTF-8">
-        <meta name = "description" content = "I'm a Sophomore majoring in Computer Sciences at the University of Wisconsin - Madison.">
+        <meta name = "description" content = "I'm a Junior majoring in Computer Sciences at the University of Wisconsin - Madison.">
         <meta name = "keywords" content = "Mihir, Trivedi, Portfolio, m-trivedi, Mihir Trivedi, UW-Madison, Pantry2Home">
         <meta name = "author" content = "Mihir Trivedi">
         <meta name = "viewport" content = "width=device-width, initial-scale=1">
-        <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel = "stylesheet" href = "styles.css">
     </head>
     <body>
-        <!-- Header Section -->
-        <div id = "header">
-            <a href = "#home" style = "color: #faad14;text-decoration: none;">m-trivedi</a>
-            <nav id = "navigation" style = "float: right;font-size: 16px;">
-                <a href = "#home" class = "navlink">Home</a>
-                <a href = "#experience" class = "navlink">Experience</a>
-                <a href = "#projects" class = "navlink">Projects</a>
-                <a href = "#skills" class = "navlink">Skills</a>
-                <a href = "#extracurricular" class = "navlink">Extracurricular</a>
-                <a href = "#awards" class = "navlink">Awards</a>
-                <a href = "#awards" class = "navlink">Contact</a>
-            </nav>
-        </div>
 
-        <!-- Home Section -->
-        <div id = "home">
-            <h1>Hey! I'm <div style = "display: inline-block;color: #faad14;">Mihir</div> Trivedi!</h1><br>
-            <p>I'm a Junior majoring in Computer Sciences at the University of Wisconsin - Madison.</p>
+        <header>
+            <a href = "index.html">Home</a>
+            <a href = "now.html">Now</a>
+            <a href = "contact.html">Contact</a>
+        </header>
+
+        <div id = "content">
+            <h1>Hello, my name is <div style = "display: inline-block;color: #faad14;">Mihir Trivedi</div>.</h1>
+            I'm a Junior majoring in Computer Sciences at the University of Wisconsin - Madison.<br>
+            I am actively looking for SWE internships for Summer 2024. Click the button below to view a PDF version of my resume:
             <form action = "Mihir_Trivedi_Resume.pdf" target="_blank">
-                <button>View Resume</button>
+                <button>View Resume PDF</button>
             </form>
-            <div class = "text">
-                Contact me at <a href = "mailto:m-trivedi@outlook.com" class = "olink">m-trivedi@outlook.com</a>
+            Alternatively, scroll down to read a more detailed description of my experiences, projects, skills, and more:
+            <br><br>
+
+            <div class = "heading">Testimonials</div>
+            <div style = 'margin-bottom: 15px;'>
+                <img src = 'images/img1.jpeg'>
+                Julie Eichhorn<br>Co-Founder at Pantry2Home
             </div>
+            "Mihir has been integral to the development of our platform at Pantry2Home.com. Our website connects food insecure individuals to food pantries for online ordering. Mihir worked to transform our wireframes into a functioning front and backend product that opperates efficiently for individuals in need and is a daily time saver for the food pantry. His organization, willingness to learn new programs and work as a team player are a true gift in today's job market. I can say without hesitation, without Mihir, our company would not be running. Julie Eichhorn co-founder Pantry2Home.com"
+            <br><br>
+            <div style = 'margin-bottom: 15px;'>
+                <img src = 'images/img2.jpeg'>
+                Laura Mendyk<br>Co-Founder at Pantry2Home
+            </div>
+            "Mihir is wise and professional beyond his years. He developed the platform for our company, Pantry2Home. We initially hired him to create a web page and after meeting with him realized that he was capable of building the entire platform. He is fluent in many scripts and open to learning new ones, which he did of his own accord to make our platform better. He is prepared and organized for all our meetings and has an incredible vision for what can be done to make it better. More importantly, he is able to verbalize complex coding and IT processes to my partner and I who have zero IT background. His grasp of the work and love of the process is energizing. 
+            I have hired many physicians in one of my previous roles. Interviewing is hard and finding the right person for the job is sometimes even harder. Mihir is that diamond in the rough. I would hire Mihir again in a heart beat and whomever does is a lucky person."
+            <br><br>
+            <div class = "heading">Experience</div>
+            <h2>Pantry2Home - Full-Stack Developer (Part Time)</h2>
+            <ul>
+                <li>Develop the Pantry2Home (<a href = "https://pantry2home.com" target = "_blank">pantry2home.com</a>) website independently that helps food insecure communities order food items for pickup/delivery from local Wisconsin food pantries such as St. Vincent De Paul Food Pantry.</li>
+                <li>Create object-oriented PHP, JavaScript backend with MySQL database to implement features such as adding/removing accounts, placing orders, viewing and accepting orders, managing pantry inventory of different categories of food items, and managing staff members through website. Used Git and Webhooks for version control.</li>
+                <li>Designed SEO Optimized HTML/CSS for better search rankings with responsive JavaScript for cross-compatibility.</li>
+                <li>Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.</li>
+                <li>Supervisors (Julie Eichhorn, Laura Mendyk) contact information available upon request.</li>
+            </ul>
+            <br>
+            <div class = "heading">Projects</div>
+            <h2>Remote Procedural Calls (<a href = "https://github.com/m-trivedi/remote-procedural-calls" target = "_blank">link</a>)</h2>
+            <ul>
+                <li>Developed a remote procedural call system in C, facilitating the tracking of 100+ connected clients by a remote server.</li>
+                <li>Employed multi-threading (pthreads) to enable concurrent servicing of multiple client requests, enhancing system efficiency and responsiveness by 400%.</li>
+                <li>Designed a fault-tolerant architecture to ensure system reliability in the event of client disconnects or disruptions.</li>
+                <li>Conducted thorough testing, including stress testing and performance optimization, to deliver a stable system.</li>
+            </ul>
+            <br>
+            <h2>Radized: Radiology Digitized</h2>
+            <ul>
+                <li>Developed a PHP website with MySQL database that helps radiologists collaborate with diagnostic centers to provide interpretations of CT/MRI Scans, and X-Rays to patients online.</li>
+                <li>Implemented user login/register, scan upload/download, commenting functionality with object-oriented PHP.</li>
+                <li>Used R programming language to provide concise visual representations of statistics.</li>
+                <li>Reduced time to provide diagnosis by 80% by optimizing and streamlining scan assignment to doctors.</li>
+                <li>Managed the elastic cloud compute instances of the website on Amazon Web Services.</li>
+            </ul>
+            <br>
+            <h2>NeoConvo: New Conversations</h2>
+            <ul>
+                <li>Created a PHP social networking website with MySQL database that allows users to post, message, and connect with other users.</li>
+                <li>Organized HTML and XML files to get a better SEO score for higher Google Search rankings.</li>
+                <li>Analyzed search trends worldwide for social networking websites and interpreted website statistics via Google Analytics.</li>
+            </ul>
+            <br>
+            <h2>Flora Counselling Services (<a href = "https://github.com/m-trivedi/flora" target = "_blank">link</a>)</h2>
+            <ul>
+                <li>Created a Python application with MySQL database to make counselling services more accessible for over 2000 students.</li>
+                <li>Utilized PyQT5, matplotlib to create a GUI that supports actions such as creating an account, editing profile, managing counsellors, scheduling appointments, and viewing usage statistics.</li>
+                <li>Implemented object-oriented programming practices such as inheritance to create different account types and databases.</li>
+            </ul>
+            <br>
+            <div class = "heading">Technical Skills</div>
+            <ul>
+                <li>Languages: Python, Java, PHP, C, C++, R, HTML/CSS, JavaScript, SQL</li>
+                <li>Developer Tools: VS Code, Eclipse, GCP, AWS, Heroku</li>
+                <li>Technologies: Linux, GitHub, JUnit, Jira, Bitbucket, LaTeX, Git</li>
+            </ul>
+            <br>
+            <div class = "heading">Leadership / Extracurricular</div>
+            <ul>
+                <li>Participated in the Google Solutions Challenge (2022) to develop a progressive web app using React and Firebase in a team of four people to help reduce food wastage in developed countries. (<a href = "https://github.com/MichaelLin12/Google-Solutions" target = "_blank">link</a>)</li>
+                <li>Taught computer science skills at Thoreau Elementary under Prof. Andrea Arpaci-Dusseau. (<a href = "https://docs.google.com/document/d/18DOjomzO1_HNdHbRMSEz7vhNRvYioYXKK9wKA1UIWdc/edit?usp=sharing" target = "_blank">link</a>)</li>
+                <li>Volunteered as technical skills educator at Porchlight's emergency shelter for 1 month over Summer 2022.</li>
+            </ul>
+            <br>
+            <div class = "heading">Awards</div>
+            <ul>
+                <li>Dean's List Award (Fall 2022, Spring 2023) - Issued by the College of Letters & Sciences, UW-Madison.</li>
+                <li>Dream Big Award 2022 - Issued by the Wisconsin School of Business, UW-Madison.</li>
+            </ul>
         </div>
 
-        <!-- Projects Section -->
-        <div id = "experience">
-            <div class = "line"></div>
-            <div class = "linetext">Experience</div>
-            <div class = "content">
-                <h2>Full-Stack Developer @ Pantry2Home</h2>
-                <ul>
-                    <li>Develop the Pantry2Home (pantry2home.com) website independently that helps food insecure communities order food items for pickup/delivery from local food pantries such as St. Vincent De Paul Food Pantry.</li>
-                    <li>Create object-oriented PHP, JavaScript backend with MySQL database to implement features such as adding/removing accounts, placing orders, viewing and accepting orders, managing pantry inventory of different categories of food items, and managing staff members through website. Used Git and Webhooks for version control.</li>
-                    <li>Designed SEO Optimized HTML/CSS for better search rankings with responsive JavaScript for cross-compatibility.</li>
-                    <li>Brainstorm different website features with co-founders and report bi-weekly progress of their implementation.</li>
-                    <li>Supervisors (Julie Eichhorn, Laura Mendyk) contact information available upon request.</li>
-                </ul><br>
-                <table>
-                    <tr>
-                        <td>Website:&nbsp&nbsp</td>
-                        <td><a href = "https://pantry2home.com" class = "olink" target = "_blank">https://pantry2home.com</a><br></td>
-                    </tr>
-                    <tr>
-                        <td>GitHub:&nbsp&nbsp</td>
-                        <td><a href = "https://pantry2home.com" class = "olink" target = "_blank">github.com/m-trivedi/pantry2home</a></td>
-                    </tr>
-                </table>
-            </div>
-
-            <div class = "content" style = "padding-bottom:0px;padding-top:0px;">
-                <h2>Student Office Assistant @ CoE UW-Madison</h2>
-                <ul>
-                    <li>Helped students and visitors to the Chemical and Biological Engineering department by clarifying questions, providing
-                    conference information, and managing room keys.</li>
-                    <li>Processed documents, maintained inventory data in Excel, scheduled meetings, and planned faculty events.
-                    <li>Assisted with office administrative tasks using Word, Outlook, and Office365.</li>
-                    <li>Assisted Communications Specialist with Donor information, and reaching out to Donors.</li>
-                    <li>Assisted Graduate Coordinator with setting up student welcome events.</li>
-                    <li>Supervisors (Mike Morris, Susann Ely) contact information available upon request.</li>
-                </ul>
-            </div>
-        </div>
-
-        <!-- Projects Section -->
-        <div id = "projects">
-            <div class = "line"></div>
-            <div class = "linetext">Projects</div>
-
-            <div class = "content">
-                <h2>Remote Procedural Calls</h2>
-                <ul>
-                    <li>Implemented a remote procedural call system in C that enables a remote server to track over 100 connected clients and service multiple client requests concurrently by utilizing multi-threading (pthreads).</li>
-                </ul><br>
-                GitHub: <a href = "https://github.com/m-trivedi/rpc" class = "link">https://github.com/m-trivedi/rpc</a>
-            </div>
-
-            <div class = "content" style = "padding-top:0px;">
-                <h2>Radized: Radiology Digitized</h2>
-                <ul>
-                    <li>Developed a PHP website with SQL DB that helps doctors provide radiological interpretations to diagnostic centers.</li>
-                    <li>Reduced time to interpret scans by 80% by optimizing and streamlining scan assignment to doctors.</li>
-                    <li>Managed the elastic cloud compute instances of the website on Amazon Web Services.</li>
-                </ul><br>
-                GitHub: <a href = "https://github.com/m-trivedi/radized" class = "link">https://github.com/m-trivedi/radized</a>
-            </div>
-
-            <div class = "content" style = "padding-top:0px;">
-                <h2>NeoConvo: New Conversations</h2>
-                <ul>
-                    <li>Created a PHP social networking website that allows users to post, message, and connect with other users.</li>
-                    <li>Managed SQL queries and cron jobs for generic DML queries.</li>
-                    <li>Organized HTML and XML files to get a better SEO score for higher Google Search rankings.</li>
-                    <li>Analyzed search trends worldwide for social networking websites and interpreted website statistics via Google Analytics<br>
-                        and Google Search Console. Used R programming language to provide concise visual representations of statistics.</li>
-                </ul><br>
-                GitHub: <a href = "https://github.com/m-trivedi/neoconvo" class = "link">https://github.com/m-trivedi/neoconvo</a>
-            </div>
-
-            <div class = "content" style = "padding-bottom:0px;padding-top:0px;">
-                <h2>Flora Counselling Services</h2>
-                <ul>
-                    <li>Created a Python application for over 2000 students to make counselling services more accessible in over 10 schools.</li>
-                    <li>Used PyQT5 to create a GUI that supports actions such as creating an account, editing profile, managing counsellors,<br>
-                        scheduling appointments, and viewing usage statistics.</li>
-                    <li>Implemented object-oriented programming practices such as inheritance to create different account types and databases.</li>
-                </ul><br>
-                GitHub: <a href = "https://github.com/m-trivedi/flora" class = "link">https://github.com/m-trivedi/flora</a>
-            </div>
-        </div>
-
-        <!-- Technical Skills Section -->
-
-        <div id = "skills">
-            <div class = "line"></div>
-            <div class = "linetext">Technical Skills</div>
-            <div class = "content" style = "padding-bottom: 10px;">
-                Languages:<br>
-                Python, Java, PHP, C, C++, R, HTML/CSS, JavaScript, SQL<br><br>
-                Developer Tools:<br>
-                VS Code, Eclipse, Google Cloud Platform, Amazon Web Services, Heroku<br><br>
-                Technologies:<br>
-                Linux, GitHub, JUnit, Jira, Bitbucket, LaTeX, Git
-            </div>
-        </div>
-
-        <!-- Leadership / Extracurricular Section -->
-        <div id = "extracurricular">
-            <div class = "line"></div>
-            <div class = "linetext">Leadership / Extracurricular</div>
-            <div class = "content">
-                <h2>Plavior Initiative</h2>
-                <ul>
-                    <li>Collaborated with homeless shelters such as Porchlight Inc and The Beacon to provide technical skills such as Microsoft<br>
-                        Excel to over 30 underprivileged people for over 50 hours per month.</li>
-                    <li>Managed and assessed the skills of every individual via tests and interviews and leased them to technology companies.</li>
-                    <li>Won the Dream Big Award issued by the Wisconsin School of Business.</li>
-                </ul>
-            </div>
-
-            <div class = "content" style = "padding-top:0px;padding-bottom: 0px;">
-                <h2>Google Student Developer Club</h2>
-                <ul>
-                    <li>Participated in the Google Solutions Challenge 2022 to solve one or more of the United Nations' 17 Goals.</li>
-                    <li>Developed the front-end of a progressive web application that helps grocery stores connect with non-profit organizations<br>
-                        for better food distribution to underprivileged sections of society.</li>
-                </ul>
-            </div>
-        </div>
-
-        <!-- Awards -->
-
-        <div id = "awards">
-            <div class = "line"></div>
-            <div class = "linetext">Awards</div>
-
-            <div class = "content">
-                <h2>Dean's List Spring 2023</h2>
-                <ul>
-                    <li>Received the Dean's List Award for outstanding academic achievement in Spring 2023.</li>
-                </ul>
-            </div>
-
-            <div class = "content" style = "line-height: 25px;padding-top:0px;">
-                <h2>Dean's List Fall 2022</h2>
-                <ul>
-                    <li>Received the Dean's List Award for outstanding academic achievement in Fall 2022.</li>
-                </ul>
-            </div>
-
-            <div class = "content" style = "line-height: 25px;padding-top:0px;padding-bottom: 60px;">
-                <h2>Dream Big Award 2022</h2>
-                <ul>
-                    <li>Won the Dream Big Award 2022 issued by the Wisconsin School of Business to develop Plavior.</li>
-                </ul>
-            </div>
-
-        </div>
-
-        <!-- Social Section -->
-
-        <div class = "line"></div>
-        <div class = "linetext">Social</div>
-        <div class = "content">
-            <a href="https://www.linkedin.com/in/m-trivedi/" target = "_blank" class="fa fa-linkedin"></a>
-            <a href="https://github.com/m-trivedi/" target = "_blank" class="fa fa-github"></a>
-        </div>
-
-        <script>
-            var w = window.innerWidth;
-            if (w < 800) {
-                document.getElementById("navigation").style.visibility = "hidden";
-            }
-        </script>
+        <footer>
+            Feel free to connect with me on  
+            <a href="https://www.linkedin.com/in/m-trivedi/" target = "_blank">LinkedIn</a>, view my projects on
+            <a href="https://github.com/m-trivedi/" target = "_blank">GitHub</a>, and follow me on 
+            <a href="https://twitter.com/mihirdtrivedi/" target = "_blank">Twitter</a>.<br><br>
+            Copyright, 2024, Mihir Trivedi.
+        </footer>
     </body>
 </html>
