@@ -7,29 +7,28 @@
         <meta name = "keywords" content = "Mihir, Trivedi, Portfolio, m-trivedi, Mihir Trivedi, UW-Madison, Pantry2Home">
         <meta name = "author" content = "Mihir Trivedi">
         <meta name = "viewport" content = "width=device-width, initial-scale=1">
-        <link rel = "stylesheet" href = "styles.css">
+        <link href = "./resources/css/output.css" rel = "stylesheet">
     </head>
-    <body>
-        <header>
-            <a href = "index.html">Home</a>
-            <a href = "now.html">Now</a>
-            <a href = "contact.html">Contact</a>
+    <body class = "bg-neutral-900 text-white flex flex-col min-h-screen">
+        <header class = "fixed h-16 bg-neutral-800 w-full flex justify-center items-center space-x-8 border-b border-neutral-600">
+            <a class = "h-16 flex justify-center items-center hover:text-amber-500" href = "index.html">Home</a>
+            <a class = "h-16 flex justify-center items-center hover:text-amber-500 text-amber-500" href = "now.html">Now</a>
+            <a class = "h-16 flex justify-center items-center hover:text-amber-500" href = "contact.html">Contact</a>
         </header>
-        <div id = "content">
-            <h1>Right now, I am currently:</h1>
-            <ul>
+        <div class = "pt-16 px-8 md:px-20 flex-grow">
+            <h1 class = "text-3xl mt-12 mb-4">Right now, I am currently:</h1>
+            <ul class = "list-disc">
                 <li>Pursuing my bachelor of science degree at UW-Madison in computer sciences</li>
                 <li>Working part time at Pantry2Home as a full-stack developer</li>
                 <li>Building a laravel website</li>
                 <li>Building a simple iOS application using Swift</li>
             </ul>
         </div>
-
-        <footer>
+        <footer class = "bg-neutral-800 w-full text-center border-t border-neutral-600 py-6 mt-8">
             Feel free to connect with me on  
-            <a href="https://www.linkedin.com/in/m-trivedi/" target = "_blank">LinkedIn</a>, view my projects on
-            <a href="https://github.com/m-trivedi/" target = "_blank">GitHub</a>, and follow me on 
-            <a href="https://twitter.com/mihirdtrivedi/" target = "_blank">Twitter</a>.<br><br>
+            <a class = "underline underline-offset-4 hover:text-amber-500" href="https://www.linkedin.com/in/m-trivedi/" target = "_blank">LinkedIn</a>, view my projects on
+            <a class = "underline underline-offset-4 hover:text-amber-500" href="https://github.com/m-trivedi/" target = "_blank">GitHub</a>, and follow me on 
+            <a class = "underline underline-offset-4 hover:text-amber-500" href="https://twitter.com/mihirdtrivedi/" target = "_blank">Twitter</a>.<br><br>
             Copyright, 2024, Mihir Trivedi.
         </footer>
     </body>
